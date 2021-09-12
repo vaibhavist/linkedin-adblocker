@@ -1,9 +1,9 @@
 {
     "manifest_version": 2,
-    "name": "LinkedIn AdBlocker",
+    "name": "LinkedIn AdBlocker for Recruiters/Job Seekers",
     "description": "Blocking ads.",
     "version": "0.0.1",
-    "author": "<AUTHOR_NAME>",
+    "author": "Vaibhav Khurana",
     "browser_action": {
         "default_title": "LinkedIn AdBlocker"
     },
